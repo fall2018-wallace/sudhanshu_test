@@ -17,7 +17,7 @@
         {
             "ports": [
                 {
-                    "output": "clean_data",
+                    "output": "cleanCensus",
                     "type": "csv"
                 }
             ],
@@ -30,12 +30,14 @@
             "name": "scprc_est_2017_18_pop_res.csv"
         },
         {
-            "name": "clean.R"
+            "assigned_to": "sukulkar",
+            "name": "clean.R",
+            "task_status": "in progress"
         },
         {
             "name": "data.csv"
         }
     ],
-    "updated_at": "2018-10-04 17:32:22",
+    "updated_at": "2018-10-04 17:35:31",
     "url": "https://github.com/fall2018-wallace/sudhanshu_test"
 }
